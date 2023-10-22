@@ -1,2 +1,2 @@
-# RizkyPro
+# JuePro
 RizkyPro
